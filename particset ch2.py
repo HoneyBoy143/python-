@@ -14,3 +14,9 @@ print("the avg of a & b is: ",avg)
 
 # q6)->
 print("the square of a and b is: ",a*a,";",b*b)
+
+#q7)->
+print("the difference between a and b is:"a-b)
+
+q8)->
+print("the division of a and b is:"a/b)
